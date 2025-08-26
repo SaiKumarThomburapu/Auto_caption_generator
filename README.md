@@ -43,6 +43,7 @@ Interactive API docs:
 http://localhost:8000/docs
 
 📂 Project Structure
+
 auto_caption_generator/
 │── app.py                          # Main FastAPI app
 │── requirements.txt
