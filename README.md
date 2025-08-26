@@ -16,26 +16,6 @@ This project makes it easy to upload videos and automatically generate subtitles
 
 ---
 
-## 📦 Requirements  
-Python 3.10 with the following packages (from `requirements.txt`):  
-
-```txt
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-python-multipart==0.0.6
-torch>=2.0.0
-torchaudio>=2.0.0
-transformers>=4.30.0
-pydantic==2.5.0
-librosa>=0.10.0
-numpy>=1.21.0
-aiofiles==23.2.0
-onnxruntime
-openai-whisper>=20231117
-```
-
----
-
 ## ⚙️ Installation  
 
 1. Clone the repo:  
