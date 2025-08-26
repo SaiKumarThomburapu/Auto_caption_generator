@@ -96,13 +96,6 @@ Upload a video and receive transcription/captions.
 ## 🌐 Supported Languages  
 Indic languages via **IndicConformer**, plus **English** with Whisper fallback.  
 
----
-
-## 🔮 Roadmap  
-- [ ] Add speaker diarization support  
-- [ ] Provide direct `.srt` file download via API  
-- [ ] Dockerize the deployment  
-- [ ] Add Streamlit UI for non-tech users  
 
 ---
 
